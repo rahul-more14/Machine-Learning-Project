@@ -9,29 +9,29 @@ The project involves data exploration, preprocessing, and model building using v
 ## Key Steps:
 
 1. Data Exploration and Validation:
-Importing the dataset from an Excel file.
-Exploring data characteristics such as data types, column names, and initial observations.
-Exploring categorical and continuous variables to understand their distributions and relationships.
+-Importing the dataset from an Excel file.
+-Exploring data characteristics such as data types, column names, and initial observations.
+-Exploring categorical and continuous variables to understand their distributions and relationships.
 
 2. Data Cleaning and Preparation:
-Handling missing values and outliers.
-Converting categorical variables into numerical format.
-Feature engineering to create new variables.
+-Handling missing values and outliers.
+-Converting categorical variables into numerical format.
+-Feature engineering to create new variables.
 
 3. Model Building:
-Implementing various classification algorithms such as Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting.
-Training the models on the data and evaluating their performance using metrics such as accuracy, confusion matrix, precision, recall, and F1-score.
+-Implementing various classification algorithms such as Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting.
+-Training the models on the data and evaluating their performance using metrics such as accuracy, confusion matrix, precision, recall, and F1-score.
 
 4. Model Selection and Cross Validation:
-Using techniques like K-Fold Cross Validation to assess the robustness of the models.
-Tuning hyperparameters to optimize model performance.
+-Using techniques like K-Fold Cross Validation to assess the robustness of the models.
+-Tuning hyperparameters to optimize model performance.
 
 5. Handling Class Imbalance:
-Balancing the dataset to address class imbalance issues.
+-Balancing the dataset to address class imbalance issues.
 
 6. Model Evaluation:
-Evaluating model performance on both training and test datasets.
-Assessing sensitivity, specificity, precision, recall, and F1-score.
+-Evaluating model performance on both training and test datasets.
+-Assessing sensitivity, specificity, precision, recall, and F1-score.
 
 ## Insights:
 The project aims to provide insights into factors influencing customers' decisions to accept personal loan offers.
